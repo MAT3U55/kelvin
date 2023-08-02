@@ -1,0 +1,1 @@
+/* eu criei uma variavel constante para kelvin onde é igual a 293*/

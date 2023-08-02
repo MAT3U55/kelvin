@@ -1,0 +1,1 @@
+/*eu subtrai as temperatuas transformando-a para graus ao inves de kelvin*/
